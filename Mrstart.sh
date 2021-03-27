@@ -15,7 +15,7 @@ clear
 pkg install toilet -y
 pip install lolcat
 clear
-toilet -f big ' DDOS ' -F gay | lolcat 
+toilet -f big 'DDOS' -F gay|lolcat 
 echo " " 
 
 echo -e "$blue                      ▶ Coded by$grn Versacefer $red ◀$rset"
@@ -45,7 +45,7 @@ echo " "
 echo -e "$grn                  Press$ylo ENTER$red to continue$rset"
 echo " "
 cd Mr.tk , python2 Tk.py
-echo " "m
+echo " "
 2)
 echo -e "$red             You are going to$grn Update the$red Script$rset "
 echo " "

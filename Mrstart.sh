@@ -15,8 +15,8 @@ clear
 pkg install toilet -y
 pip install lolcat
 clear
-toilet -f big 'DDOS' -F gay|lolcat 
 echo " " 
+toilet -f big 'DDOS' -F gay|lolcat 
 
 echo -e "$blue                      ▶ Coded by$grn Versacefer $red ◀$rset"
 echo -e "$red                     ⫸$ylo  The Otherside $red ⫷$rset"

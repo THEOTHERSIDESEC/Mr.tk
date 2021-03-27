@@ -54,7 +54,8 @@ echo -e "$grn                 Press$ylo ENTER$grn to continue$rset"
 echo " "
 rm -rf Mr.tk
 cd $HOME
-git clone htts://github.com/THEOTHERSIDESEC/Mr.TK
+git clone htts://github.com/THEOTHERSIDESEC/Mr.tk
+cd Mr.tk
 bash Mrstart.sh;;
 3)
 sleep 2.0

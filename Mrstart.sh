@@ -14,10 +14,11 @@ pink='\033[1;35m'
 clear
 pkg install toilet -y
 pip install lolcat
-echo toilet -f big ' DDOS ' -F gay | lolcat 
+clear
+toilet -f big ' DDOS ' -F gay | lolcat 
 echo " " 
 
-echo -e "$red                      ▶ Coded by$grn Versacefer $red ◀$rset"
+echo -e "$blue                      ▶ Coded by$grn Versacefer $red ◀$rset"
 echo -e "$red                     ⫸$ylo  The Otherside $red ⫷$rset"
 echo 
 # Functions
@@ -38,14 +39,14 @@ echo -e "$cyan                   [[[$ylo Select any option$cyan]]]$rset"
 echo " "
 read n
 case "$n" in
-1)echo " "
+1)
 echo -e "$red               You are going to$grn start the tool$red Now$rset"
 echo " "
 echo -e "$grn                  Press$ylo ENTER$red to continue$rset"
 echo " "
 cd Mr.tk , python2 Tk.py
 echo " "m
-2)echo " "
+2)echo
 echo -e "$red             You are going to$grn Update the$red Script$rset "
 echo " "
 echo -e "$grn                 Press$ylo ENTER$grn to continue$rset"

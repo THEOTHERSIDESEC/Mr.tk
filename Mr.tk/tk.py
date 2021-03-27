@@ -3415,7 +3415,7 @@ def usage():
 	print 'New loaded Botnets: 1,798,445,657'
 	print 'Usage: Tk.py  (url)'
 	print 'Use a vpn '
-    print 'Example: Tk.py http://luthi.co.il/'
+        print 'Example: Tk.py http://luthi.co.il/'
 	print "\a"
 
 os.system(" python2 banner.py")

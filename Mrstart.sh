@@ -47,7 +47,8 @@ echo -e "$grn                  Press$ylo ENTER$red to continue$rset"
 echo " "
 cd Mr.tk
 python2 tk.py
-cd Mr.tk ;;
+cd Mr.tk
+bash starter.sh ;;
 2)
 echo -e "$red             You are going to$grn Update the$red Script$rset "
 echo " "

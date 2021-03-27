@@ -54,7 +54,7 @@ echo -e "$grn                 Press$ylo ENTER$grn to continue$rset"
 echo " "
 cd $HOME
 rm -rf Mr.tk
-git clone htts://github.com/THEOTHERSIDESEC/Mr.tk
+git clone https://github.com/THEOTHERSIDESEC/Mr.tk
 cd Mr.tk
 bash Mrstart.sh;;
 3)

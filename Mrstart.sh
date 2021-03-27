@@ -52,8 +52,8 @@ echo -e "$red             You are going to$grn Update the$red Script$rset "
 echo " "
 echo -e "$grn                 Press$ylo ENTER$grn to continue$rset"
 echo " "
-rm -rf Mr.tk
 cd $HOME
+rm -rf Mr.tk
 git clone htts://github.com/THEOTHERSIDESEC/Mr.tk
 cd Mr.tk
 bash Mrstart.sh;;

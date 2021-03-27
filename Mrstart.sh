@@ -45,15 +45,13 @@ echo -e "$red               You are going to$grn start the tool$red Now$rset"
 echo " "
 echo -e "$grn                  Press$ylo ENTER$red to continue$rset"
 echo " "
-cd Mr.tk , python2 Tk.py
-clear
+cd Mr.tk , python2 Tk.py ;;
 2)
 echo -e "$red             You are going to$grn Update the$red Script$rset "
 echo " "
 echo -e "$grn                 Press$ylo ENTER$grn to continue$rset"
 echo " "
-rm -rf Mr.tk , cd $HOME , git clone htts://github.com/THEOTHERSIDESEC/Mr.TK , bash Mrstart.sh
-clear
+rm -rf Mr.tk , cd $HOME , git clone htts://github.com/THEOTHERSIDESEC/Mr.TK , bash Mrstart.sh;;
 3)
 sleep 2.0
 clear

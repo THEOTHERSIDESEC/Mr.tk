@@ -39,6 +39,7 @@ echo -e "$cyan                   [[[$ylo Select any option$cyan]]]$rset"
 echo " "
 read n
 case "$n" in
+
 1)
 echo -e "$red               You are going to$grn start the tool$red Now$rset"
 echo " "
@@ -46,6 +47,7 @@ echo -e "$grn                  Press$ylo ENTER$red to continue$rset"
 echo " "
 cd Mr.tk , python2 Tk.py
 echo " "
+
 2)
 echo -e "$red             You are going to$grn Update the$red Script$rset "
 echo " "
@@ -53,6 +55,7 @@ echo -e "$grn                 Press$ylo ENTER$grn to continue$rset"
 echo " "
 rm -rf Mr.tk , cd $HOME , git clone htts://github.com/THEOTHERSIDESEC/Mr.TK , bash Mrstart.sh
 echo " "
+
 3)
 sleep 2.0
 clear

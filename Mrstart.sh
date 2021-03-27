@@ -13,7 +13,7 @@ pink='\033[1;35m'
 # scripting starts
 clear
 pkg install toilet -y
-pkg install lolcat -y
+pip install lolcat
 echo toilet -f big ' DDOS ' -F gay | lolcat 
 echo " " 
 
@@ -39,8 +39,6 @@ echo " "
 read n
 case "$n" in
 1)echo " "
-echo " "
-echo " "
 echo -e "$red               You are going to$grn start the tool$red Now$rset"
 echo " "
 echo -e "$grn                  Press$ylo ENTER$red to continue$rset"
@@ -48,8 +46,6 @@ echo " "
 cd Mr.tk , python2 Tk.py
 echo " "m
 2)echo " "
-echo " "
-echo " "
 echo -e "$red             You are going to$grn Update the$red Script$rset "
 echo " "
 echo -e "$grn                 Press$ylo ENTER$grn to continue$rset"

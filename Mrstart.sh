@@ -46,7 +46,7 @@ echo -e "$grn                  Press$ylo ENTER$red to continue$rset"
 echo " "
 cd Mr.tk , python2 Tk.py
 echo " "m
-2)echo
+2)
 echo -e "$red             You are going to$grn Update the$red Script$rset "
 echo " "
 echo -e "$grn                 Press$ylo ENTER$grn to continue$rset"
